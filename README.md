@@ -6,7 +6,7 @@ Since launch, the site has contributed to a **27.65% ad campaign conversion rate
 
 ## Live Website
 
-[https://accessautoglass.com](https://accessautoglass.com)
+<a href="https://accessautoglass.com" target="_blank">https://www.accessautoglass.com</a>
 
 ## Preview
 
