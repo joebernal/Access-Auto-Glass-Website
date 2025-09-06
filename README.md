@@ -1,7 +1,8 @@
 # Access Auto Glass Website
 
-This repository contains the source code for the official **Access Auto Glass** website.  
-The site was built to help customers in Los Angeles County quickly find auto glass services, request quotes, and contact the business directly.
+Access Auto Glass is a fully responsive business website built to increase visibility and customer conversions for a local auto glass repair company. The site was developed with HTML, CSS, and JavaScript, deployed through AWS S3 with CloudFront and Cloudflare for secure HTTPS delivery.
+
+Since launch, the site has contributed to a **27.65% ad campaign conversion rate**, resulting in an **80% increase in weekly calls leading to auto glass repairs**. These metrics highlight the effectiveness of optimized design, SEO, and performance-focused deployment.
 
 ## Live Website
 
